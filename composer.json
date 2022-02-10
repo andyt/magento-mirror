@@ -1,5 +1,5 @@
 {
-    "name": "magento/magento",
+    "name": "freeborn/magento",
     "description": "Magento CE",
     "type": "magento-core"
 }
